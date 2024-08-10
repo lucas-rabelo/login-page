@@ -10,6 +10,8 @@ Login screen, Registration, Password Recovery, Creation of new password. After l
 - [ ]  TypeScript
 - [ ]  Tailwind CSS
 - [ ]  NestJs
+- [ ]  Prisma
+- [ ]  PostgreSQL
 - [ ]  NodeJs
 - [ ]  OAuth2 Google Authentication
 - [ ]  Axios
